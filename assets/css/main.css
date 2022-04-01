@@ -721,7 +721,7 @@
 					}
 
 					ul.icons li a:hover {
-						background-color: grey;
+						background-color: green;
 						color: white;
 					}
 
@@ -949,7 +949,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #82cec6;
+			background-color: yellow;
 		}
 
 		input[type="submit"]:active,
@@ -1391,7 +1391,7 @@
 			}
 
 		#footer .copyright {
-			color: rgba(255, 255, 255, 0.5);
+			color: green(255, 255, 255, 0.5);
 			font-size: 0.9em;
 			margin: 0 0 2em 0;
 			padding: 0;
